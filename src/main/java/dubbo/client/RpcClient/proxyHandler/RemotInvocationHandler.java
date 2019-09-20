@@ -1,6 +1,6 @@
-package dubbo.client.PpcClient.proxyHandler;
+package dubbo.client.RpcClient.proxyHandler;
 
-import dubbo.client.PpcClient.RpcProxyHandler;
+import dubbo.client.RpcClient.RpcProxyHandler;
 import dubbo.client.registry.IServiceDiscovery;
 import io.netty.bootstrap.Bootstrap;
 import io.netty.channel.*;

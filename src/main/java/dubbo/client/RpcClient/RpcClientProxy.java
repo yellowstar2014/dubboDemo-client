@@ -1,6 +1,6 @@
-package dubbo.client.PpcClient;
+package dubbo.client.RpcClient;
 
-import dubbo.client.PpcClient.proxyHandler.RemotInvocationHandler;
+import dubbo.client.RpcClient.proxyHandler.RemotInvocationHandler;
 import dubbo.client.registry.IServiceDiscovery;
 import java.lang.reflect.Proxy;
 

@@ -1,4 +1,4 @@
-package dubbo.client.PpcClient;
+package dubbo.client.RpcClient;
 
 import com.dubbo.api.bean.RpcRequest;
 import io.netty.channel.ChannelHandlerContext;

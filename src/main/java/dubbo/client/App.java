@@ -1,6 +1,6 @@
 package dubbo.client;
 
-import dubbo.client.PpcClient.RpcClientProxy;
+import dubbo.client.RpcClient.RpcClientProxy;
 import dubbo.client.registry.IServiceDiscovery;
 import dubbo.client.registry.ServiceDiscoveryImpl;
 import com.dubbo.api.IDemoService;
